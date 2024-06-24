@@ -19,3 +19,9 @@ _deps
 *-prefix/
 
 # End of https://www.toptal.com/developers/gitignore/api/cmake
+
+## Cmake cache
+.cache/
+
+## Generated binary files
+**/Step1/build/Tutorial
